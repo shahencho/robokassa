@@ -1,0 +1,114 @@
+{
+    "sub_449708378_20250313224126": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741887686,
+        "end_date": 1744479686,
+        "status": "active"
+    },
+    "sub_449708378_20250313225957": {
+        "user_id": 449708378,
+        "type": "pro",
+        "start_date": 1741888797,
+        "end_date": 1744480797,
+        "status": "active"
+    },
+    "sub_449708378_20250313230737": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741889257,
+        "end_date": 1744481257,
+        "status": "active"
+    },
+    "sub_449708378_20250313231222": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741889542,
+        "end_date": 1744481542,
+        "status": "active"
+    },
+    "sub_449708378_20250313231457": {
+        "user_id": 449708378,
+        "type": "pro",
+        "start_date": 1741889697,
+        "end_date": 1744481697,
+        "status": "expired"
+    },
+    "sub_449708378_20250313232333": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741890213,
+        "end_date": 1744482213,
+        "status": "expired"
+    },
+    "sub_449708378_20250313233703": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741891023,
+        "end_date": 1744483023,
+        "status": "expired"
+    },
+    "sub_449708378_20250313234055": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741891255,
+        "end_date": 1744483255,
+        "status": "expired"
+    },
+    "sub_449708378_20250314001218": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741893138,
+        "end_date": 1744485138,
+        "status": "expired"
+    },
+    "sub_449708378_20250314001940": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741893580,
+        "end_date": 1744485580,
+        "status": "active"
+    },
+    "sub_449708378_20250314001956": {
+        "user_id": 449708378,
+        "type": "pro",
+        "start_date": 1741893596,
+        "end_date": 1744485596,
+        "status": "expired"
+    },
+    "sub_449708378_20250314002516": {
+        "user_id": 449708378,
+        "type": "pro",
+        "start_date": 1741893916,
+        "end_date": 1744485916,
+        "status": "expired"
+    },
+    "sub_449708378_20250314003134": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741894294,
+        "end_date": 1744486294,
+        "status": "expired"
+    },
+    "sub_449708378_20250314004754": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741895274,
+        "end_date": 1744487274,
+        "status": "active"
+    },
+    "sub_449708378_20250314011638": {
+        "user_id": 449708378,
+        "type": "beginner",
+        "start_date": 1741896998,
+        "end_date": 1744488998,
+        "status": "expired"
+    },
+    "sub_7278777874_20250314013349": {
+        "user_id": 7278777874,
+        "type": "beginner",
+        "start_date": 1741898029,
+        "end_date": 1744490029,
+        "status": "expired"
+    }
+}

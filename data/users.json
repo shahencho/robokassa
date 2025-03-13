@@ -1,0 +1,22 @@
+{
+    "449708378": {
+        "username": "shahengrigoryann",
+        "first_name": "Shahen",
+        "last_name": null,
+        "created_at": 1741876856,
+        "subscription_id": "sub_449708378_20250314011638",
+        "subscription_type": "beginner",
+        "subscription_start": 1741896998,
+        "subscription_end": 1744488998
+    },
+    "7278777874": {
+        "username": null,
+        "first_name": "Shahen Kz",
+        "last_name": null,
+        "created_at": 1741898021,
+        "subscription_id": "sub_7278777874_20250314013349",
+        "subscription_type": "beginner",
+        "subscription_start": 1741898029,
+        "subscription_end": 1744490029
+    }
+}

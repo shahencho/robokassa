@@ -1,0 +1,880 @@
+2025-03-13 23:07:18,495 - __main__ - INFO - Starting bot...
+2025-03-13 23:07:19,245 - __main__ - INFO - Bot is ready to handle messages
+2025-03-13 23:07:19,557 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getMe "HTTP/1.1 200 OK"
+2025-03-13 23:07:19,623 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-13 23:07:19,624 - telegram.ext.Application - INFO - Application started
+2025-03-13 23:07:26,717 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:07:26,720 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:07:27,007 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:07:35,749 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:07:35,751 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-13 23:07:35,976 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:07:37,578 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:07:37,659 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-03-13 23:07:37,660 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-13 23:07:37,664 - handlers.user - INFO - Created subscription sub_449708378_20250313230737 for user 449708378
+2025-03-13 23:07:37,748 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/createChatInviteLink "HTTP/1.1 200 OK"
+2025-03-13 23:07:37,750 - handlers.user - INFO - Created invite link for group -4657917032 for user 449708378
+2025-03-13 23:07:37,831 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/createChatInviteLink "HTTP/1.1 200 OK"
+2025-03-13 23:07:37,833 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-13 23:07:37,948 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:07:37,950 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-13 23:07:47,645 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:07:56,149 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:08:06,218 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:08:13,801 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:08:13,802 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:08:13,819 - handlers.user - INFO - User 449708378 checked status: beginner subscription, 29 days remaining
+2025-03-13 23:08:14,061 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:08:23,888 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:08:30,062 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:08:30,064 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:08:30,064 - handlers.admin - INFO - Admin 449708378 accessed admin help
+2025-03-13 23:08:30,449 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:08:30,451 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:08:32,868 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:08:32,870 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:08:32,870 - handlers.admin - INFO - Admin 449708378 requested user list
+2025-03-13 23:08:32,871 - handlers.admin - INFO - No users found in database
+2025-03-13 23:08:32,959 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:08:42,936 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:08:53,002 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:09:03,070 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:09:13,142 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:09:23,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:09:33,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:09:43,350 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:09:53,417 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:10:03,482 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:10:13,550 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:10:23,616 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:10:33,687 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:10:43,753 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:10:53,819 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:11:03,890 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:11:13,957 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:11:24,023 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:11:34,093 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:11:44,159 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:11:54,225 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:12:04,292 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:12:10,312 - __main__ - INFO - Starting bot...
+2025-03-13 23:12:11,030 - __main__ - INFO - Bot is ready to handle messages
+2025-03-13 23:12:11,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getMe "HTTP/1.1 200 OK"
+2025-03-13 23:12:11,419 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-13 23:12:11,420 - telegram.ext.Application - INFO - Application started
+2025-03-13 23:12:18,986 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:12:18,988 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:12:19,296 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:12:21,291 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:12:21,293 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-13 23:12:21,381 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:12:22,711 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:12:22,799 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-03-13 23:12:22,800 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-13 23:12:22,801 - handlers.user - INFO - Created subscription sub_449708378_20250313231222 for user 449708378
+2025-03-13 23:12:22,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/createChatInviteLink "HTTP/1.1 200 OK"
+2025-03-13 23:12:22,919 - handlers.user - INFO - Created invite link for group -4657917032 for user 449708378
+2025-03-13 23:12:23,046 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/createChatInviteLink "HTTP/1.1 200 OK"
+2025-03-13 23:12:23,047 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-13 23:12:23,180 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:12:23,182 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-13 23:12:26,283 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:12:35,967 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:12:35,969 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:12:35,970 - handlers.admin - INFO - Admin 449708378 accessed admin help
+2025-03-13 23:12:36,281 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:12:36,282 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:12:38,273 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:12:38,275 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:12:38,276 - handlers.admin - INFO - Admin 449708378 requested user list
+2025-03-13 23:12:38,277 - handlers.admin - INFO - Admin 449708378 viewed user list with 1 users
+2025-03-13 23:12:38,498 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:12:43,696 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:12:43,698 - handlers.admin - WARNING - Admin 449708378 provided invalid user ID
+2025-03-13 23:12:43,924 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/sendMessage "HTTP/1.1 200 OK"
+2025-03-13 23:12:53,767 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:13:03,837 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:13:13,907 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:13:23,973 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:13:34,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:13:44,287 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7369759089:AAHNhRi7engGeoEujYBO6Y4WhYNYSM2dmx0/getUpdates "HTTP/1.1 200 OK"
+2025-03-13 23:13:44,288 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-03-13 23:13:44,289 - telegram.ext.Application - INFO - Application.stop() complete
+2025-03-13 23:13:45,759 - __main__ - INFO - Starting bot...
+2025-03-13 23:13:46,430 - __main__ - INFO - Bot is ready to handle messages
+2025-03-13 23:14:19,806 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:14:43,978 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-13 23:14:57,626 - handlers.user - INFO - User 449708378 selected pro subscription
+2025-03-13 23:14:57,628 - handlers.user - INFO - Created subscription sub_449708378_20250313231457 for user 449708378
+2025-03-13 23:14:57,771 - handlers.user - INFO - Created invite link for group -4657917032 for user 449708378
+2025-03-13 23:14:57,886 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-13 23:14:57,982 - handlers.user - INFO - Created invite link for group -4690219028 for user 449708378
+2025-03-13 23:14:58,093 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-13 23:15:03,079 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:15:03,093 - handlers.user - INFO - User 449708378 checked status: pro subscription, 29 days remaining
+2025-03-13 23:15:48,681 - __main__ - INFO - Command /help used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:15:48,902 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Available commands:
+/start - Start the bot
+/subscribe - Start subscription process
+/status - Check subscription status
+/help - Show this help message
+    
+2025-03-13 23:15:56,299 - __main__ - INFO - Command /help used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:15:56,511 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Available commands:
+/start - Start the bot
+/subscribe - Start subscription process
+/status - Check subscription status
+/help - Show this help message
+    
+2025-03-13 23:16:01,794 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-13 23:16:05,868 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:16:05,870 - handlers.user - INFO - User 449708378 checked status: pro subscription, 29 days remaining
+2025-03-13 23:16:09,762 - __main__ - INFO - Command /help used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:16:09,892 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Available commands:
+/start - Start the bot
+/subscribe - Start subscription process
+/status - Check subscription status
+/help - Show this help message
+    
+2025-03-13 23:16:20,236 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:16:20,237 - handlers.admin - INFO - Admin 449708378 accessed admin help
+2025-03-13 23:16:20,475 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:16:31,078 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:16:31,078 - handlers.admin - INFO - Admin 449708378 requested user list
+2025-03-13 23:16:31,080 - handlers.admin - INFO - Admin 449708378 viewed user list with 1 users
+2025-03-13 23:16:44,979 - handlers.admin - WARNING - Admin 449708378 provided invalid user ID
+2025-03-13 23:17:03,202 - handlers.admin - INFO - Admin 449708378 attempting to manage user 449708378
+2025-03-13 23:17:03,204 - handlers.admin - INFO - Admin 449708378 viewing details for user 449708378
+2025-03-13 23:17:09,568 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-13 23:17:09,716 - handlers.admin - INFO - Successfully expired subscription for user 449708378
+2025-03-13 23:17:17,668 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:19:59,762 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:19:59,764 - handlers.user - INFO - User 449708378 checked status: No active subscription
+2025-03-13 23:20:09,207 - __main__ - INFO - Command /help used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:20:09,477 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Available commands:
+/start - Start the bot
+/subscribe - Start subscription process
+/status - Check subscription status
+/help - Show this help message
+    
+2025-03-13 23:20:14,144 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:20:14,145 - handlers.admin - INFO - Admin 449708378 accessed admin help
+2025-03-13 23:20:14,260 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:20:16,803 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:20:16,804 - handlers.admin - INFO - Admin 449708378 requested user list
+2025-03-13 23:20:16,805 - handlers.admin - INFO - Admin 449708378 viewed user list with 1 users
+2025-03-13 23:23:02,126 - __main__ - INFO - Starting bot...
+2025-03-13 23:23:02,811 - __main__ - INFO - Bot is ready to handle messages
+2025-03-13 23:23:10,927 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:23:11,251 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Welcome to our subscription bot! 
+
+We offer two subscription plans:
+
+1. Beginner Plan ($10/month)
+   - Access to 2 premium groups
+   - 30-day subscription
+
+2. Pro Plan ($10/month)
+   - Access to all 3 premium groups
+   - 30-day subscription
+
+Use /subscribe to start your subscription!
+    
+2025-03-13 23:23:14,664 - __main__ - INFO - Command /help used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:23:14,774 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Available commands:
+/start - Start the bot
+/subscribe - Start subscription process
+/status - Check subscription status
+/help - Show this help message
+    
+2025-03-13 23:23:16,668 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:23:16,668 - handlers.user - INFO - User 449708378 checked status: No active subscription
+2025-03-13 23:23:31,548 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-13 23:23:33,203 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-13 23:23:33,206 - handlers.user - INFO - Created subscription sub_449708378_20250313232333 for user 449708378
+2025-03-13 23:23:33,286 - handlers.user - INFO - Created invite link for group -4657917032 for user 449708378
+2025-03-13 23:23:33,365 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-13 23:23:33,501 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-13 23:23:52,198 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:23:52,500 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:23:53,964 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:24:49,476 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:26:58,126 - __main__ - INFO - Starting bot...
+2025-03-13 23:26:58,850 - __main__ - INFO - Bot is ready to handle messages
+2025-03-13 23:27:06,316 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:27:06,535 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Welcome to our subscription bot! 
+
+We offer two subscription plans:
+
+1. Beginner Plan ($10/month)
+   - Access to 2 premium groups
+   - 30-day subscription
+
+2. Pro Plan ($10/month)
+   - Access to all 3 premium groups
+   - 30-day subscription
+
+Use /subscribe to start your subscription!
+    
+2025-03-13 23:27:10,209 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:27:10,296 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:27:12,270 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:28:22,774 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:28:23,049 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:28:26,205 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:29:55,789 - __main__ - INFO - Starting bot...
+2025-03-13 23:29:56,464 - __main__ - INFO - Bot is ready to handle messages
+2025-03-13 23:30:09,362 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:30:09,655 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Welcome to our subscription bot! 
+
+We offer two subscription plans:
+
+1. Beginner Plan ($10/month)
+   - Access to 2 premium groups
+   - 30-day subscription
+
+2. Pro Plan ($10/month)
+   - Access to all 3 premium groups
+   - 30-day subscription
+
+Use /subscribe to start your subscription!
+    
+2025-03-13 23:30:12,897 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:30:12,984 - handlers.admin - INFO - Admin 449708378 viewed admin help
+2025-03-13 23:30:12,985 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:30:14,768 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:30:14,891 - handlers.admin - INFO - Admin 449708378 viewed user list with 1 users
+2025-03-13 23:30:30,295 - __main__ - INFO - Command /help used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:30:30,625 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Available commands:
+/start - Start the bot
+/subscribe - Start subscription process
+/status - Check subscription status
+/help - Show this help message
+    
+2025-03-13 23:30:36,294 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:30:36,295 - handlers.user - INFO - User 449708378 checked status: beginner subscription, 29 days remaining
+2025-03-13 23:30:42,405 - __main__ - INFO - Command /help used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:30:42,659 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Available commands:
+/start - Start the bot
+/subscribe - Start subscription process
+/status - Check subscription status
+/help - Show this help message
+    
+2025-03-13 23:30:46,845 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:30:46,965 - handlers.admin - INFO - Admin 449708378 viewed admin help
+2025-03-13 23:30:46,966 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:30:49,902 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:30:50,062 - handlers.admin - INFO - Admin 449708378 viewed user list with 1 users
+2025-03-13 23:33:07,346 - __main__ - INFO - Starting bot...
+2025-03-13 23:33:08,001 - __main__ - INFO - Bot is ready to handle messages
+2025-03-13 23:33:15,145 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:33:15,414 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Welcome to our subscription bot! 
+
+We offer two subscription plans:
+
+1. Beginner Plan ($10/month)
+   - Access to 2 premium groups
+   - 30-day subscription
+
+2. Pro Plan ($10/month)
+   - Access to all 3 premium groups
+   - 30-day subscription
+
+Use /subscribe to start your subscription!
+    
+2025-03-13 23:33:19,129 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:33:19,242 - handlers.admin - INFO - Admin 449708378 viewed admin help
+2025-03-13 23:33:19,242 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:33:21,252 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:33:21,373 - handlers.admin - INFO - Admin 449708378 viewed user list:
+Registered users:
+
+ID: 449708378
+Username: @shahengrigoryann
+Status: Active
+
+
+2025-03-13 23:33:34,661 - handlers.admin - INFO - Admin 449708378 provided invalid user ID
+2025-03-13 23:34:00,931 - handlers.admin - INFO - Admin 449708378 viewing user details:
+User details:
+ID: 449708378
+Username: @shahengrigoryann
+Subscription: beginner
+Status: Active
+2025-03-13 23:34:12,966 - handlers.admin - INFO - Admin 449708378 cancelled operation
+2025-03-13 23:34:49,064 - handlers.admin - INFO - Admin 449708378 viewing user details:
+User details:
+ID: 449708378
+Username: @shahengrigoryann
+Subscription: beginner
+Status: Active
+2025-03-13 23:34:50,778 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-13 23:34:51,764 - handlers.admin - INFO - Admin 449708378 expired subscription for user 449708378
+2025-03-13 23:34:51,857 - handlers.admin - INFO - Updated user status:
+Updated user status:
+ID: 449708378
+Username: @shahengrigoryann
+Subscription: beginner
+Status: Inactive
+2025-03-13 23:36:51,595 - __main__ - INFO - Starting bot...
+2025-03-13 23:36:52,295 - __main__ - INFO - Bot is ready to handle messages
+2025-03-13 23:37:01,150 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:37:01,409 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Welcome to our subscription bot! 
+
+We offer two subscription plans:
+
+1. Beginner Plan ($10/month)
+   - Access to 2 premium groups
+   - 30-day subscription
+
+2. Pro Plan ($10/month)
+   - Access to all 3 premium groups
+   - 30-day subscription
+
+Use /subscribe to start your subscription!
+    
+2025-03-13 23:37:02,708 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-13 23:37:03,913 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-13 23:37:03,919 - handlers.user - INFO - Created subscription sub_449708378_20250313233703 for user 449708378
+2025-03-13 23:37:04,002 - handlers.user - INFO - Created invite link for group -4657917032 for user 449708378
+2025-03-13 23:37:04,093 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-13 23:37:04,190 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-13 23:37:10,289 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:37:10,555 - handlers.admin - INFO - Admin 449708378 viewed admin help
+2025-03-13 23:37:10,556 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Admin Commands:
+/list_users - List all registered users
+/manage_user <user_id> - Manage a specific user's subscription
+    
+2025-03-13 23:37:15,559 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:37:15,799 - handlers.admin - INFO - Admin 449708378 viewed user list:
+Registered users:
+
+ID: 449708378
+Username: @shahengrigoryann
+Status: Active
+
+
+2025-03-13 23:37:17,686 - handlers.admin - INFO - Admin 449708378 provided invalid user ID
+2025-03-13 23:37:25,416 - handlers.admin - INFO - Admin 449708378 viewing user details:
+User details:
+ID: 449708378
+Username: @shahengrigoryann
+Subscription: beginner
+Status: Active
+2025-03-13 23:37:26,963 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-13 23:37:26,967 - utils.subscription_manager - INFO - Marked subscription sub_449708378_20250313233703 as expired for user 449708378
+2025-03-13 23:37:26,976 - utils.subscription_manager - INFO - User 449708378 has access to groups: []
+2025-03-13 23:37:27,884 - handlers.admin - INFO - Admin 449708378 expired subscription for user 449708378
+2025-03-13 23:37:28,007 - handlers.admin - INFO - Updated user status:
+Updated user status:
+ID: 449708378
+Username: @shahengrigoryann
+Subscription: beginner
+Status: Inactive
+2025-03-13 23:40:41,994 - __main__ - INFO - Starting bot...
+2025-03-13 23:40:42,697 - __main__ - INFO - Bot is ready to handle messages
+2025-03-13 23:40:49,083 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-13 23:40:49,376 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+Welcome to our subscription bot! 
+
+We offer two subscription plans:
+
+1. Beginner Plan ($10/month)
+   - Access to 2 premium groups
+   - 30-day subscription
+
+2. Pro Plan ($10/month)
+   - Access to all 3 premium groups
+   - 30-day subscription
+
+Use /subscribe to start your subscription!
+    
+2025-03-13 23:40:54,716 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-13 23:40:55,936 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-13 23:40:55,940 - handlers.user - INFO - Created subscription sub_449708378_20250313234055 for user 449708378
+2025-03-13 23:40:56,023 - handlers.user - INFO - Created invite link for group -4657917032 for user 449708378
+2025-03-13 23:40:56,110 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-13 23:40:56,213 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-13 23:41:08,394 - handlers.admin - INFO - Admin 449708378 viewing user details:
+User details:
+ID: 449708378
+Username: @shahengrigoryann
+Subscription: beginner
+Status: Active
+2025-03-13 23:41:10,139 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-13 23:41:10,140 - utils.subscription_manager - INFO - User 449708378 has access to groups: [-4657917032, -4644237809]
+2025-03-13 23:41:11,006 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4657917032
+2025-03-13 23:41:11,309 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4657917032: Chat_admin_required
+2025-03-13 23:41:11,399 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4657917032: Chat_admin_required
+2025-03-13 23:41:11,400 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4644237809
+2025-03-13 23:41:11,545 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4644237809: Chat_admin_required
+2025-03-13 23:41:11,620 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4644237809: Chat_admin_required
+2025-03-13 23:41:11,621 - utils.subscription_manager - INFO - Marked subscription sub_449708378_20250313234055 as expired for user 449708378
+2025-03-13 23:41:11,712 - handlers.admin - INFO - Admin 449708378 expired subscription for user 449708378
+2025-03-13 23:41:11,813 - handlers.admin - INFO - Updated user status:
+Updated user status:
+ID: 449708378
+Username: @shahengrigoryann
+Subscription: beginner
+Status: Inactive
+2025-03-14 00:11:19,732 - __main__ - INFO - Starting bot...
+2025-03-14 00:11:20,418 - __main__ - INFO - Bot is ready to handle messages
+2025-03-14 00:12:13,116 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:12:13,405 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+     ! 
+
+    :
+
+1.  "" ($10/)
+   -   2  
+   -   30 
+
+2.  "" ($10/)
+   -    3  
+   -   30 
+
+ /subscribe   !
+    
+2025-03-14 00:12:16,803 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-14 00:12:18,032 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-14 00:12:18,043 - handlers.user - INFO - Created subscription sub_449708378_20250314001218 for user 449708378
+2025-03-14 00:12:18,127 - handlers.user - INFO - Created invite link for group -4657917032 for user 449708378
+2025-03-14 00:12:18,223 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-14 00:12:18,335 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-14 00:12:25,587 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:12:25,606 - handlers.user - INFO - User 449708378 checked status: beginner subscription, 29 days remaining
+2025-03-14 00:12:32,612 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:12:32,834 - handlers.admin - INFO - Admin 449708378 viewed admin help
+2025-03-14 00:12:32,836 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+ :
+/list_users -   
+/manage_user <user_id> -   
+    
+2025-03-14 00:12:34,633 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:12:34,728 - handlers.admin - INFO - Admin 449708378 viewed user list:
+Зарегистрированные пользователи:
+
+ID: 449708378
+Пользователь: @shahengrigoryann
+Статус: Активна
+
+
+2025-03-14 00:12:47,921 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:12:48,211 - handlers.admin - INFO - Admin 449708378 viewed user list:
+Зарегистрированные пользователи:
+
+ID: 449708378
+Пользователь: @shahengrigoryann
+Статус: Активна
+
+
+2025-03-14 00:13:01,976 - handlers.admin - INFO - Admin 449708378 viewing user details:
+Информация о пользователе:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: beginner
+Статус: Активна
+2025-03-14 00:13:04,989 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-14 00:13:04,990 - utils.subscription_manager - INFO - User 449708378 has access to groups: [-4657917032, -4644237809]
+2025-03-14 00:13:05,711 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4657917032
+2025-03-14 00:13:06,048 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4657917032: Chat_admin_required
+2025-03-14 00:13:06,126 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4657917032: Chat_admin_required
+2025-03-14 00:13:06,127 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4644237809
+2025-03-14 00:13:06,273 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4644237809: Chat_admin_required
+2025-03-14 00:13:06,355 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4644237809: Chat_admin_required
+2025-03-14 00:13:06,357 - utils.subscription_manager - INFO - Marked subscription sub_449708378_20250314001218 as expired for user 449708378
+2025-03-14 00:13:06,442 - handlers.admin - INFO - Admin 449708378 expired subscription for user 449708378
+2025-03-14 00:13:06,526 - handlers.admin - INFO - Updated user status:
+Обновленный статус пользователя:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: beginner
+Статус: Неактивна
+2025-03-14 00:18:22,641 - __main__ - INFO - Starting bot...
+2025-03-14 00:18:23,450 - __main__ - INFO - Bot is ready to handle messages
+2025-03-14 00:19:23,306 - __main__ - INFO - Starting bot...
+2025-03-14 00:19:23,989 - __main__ - INFO - Bot is ready to handle messages
+2025-03-14 00:19:36,442 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:19:36,443 - handlers.user - INFO - User 449708378 checked status: No active subscription
+2025-03-14 00:19:39,211 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-14 00:19:40,687 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-14 00:19:40,690 - handlers.user - INFO - Created subscription sub_449708378_20250314001940 for user 449708378
+2025-03-14 00:19:40,756 - handlers.user - ERROR - Error creating invite link for group -4652743742: Group migrated to supergroup. New chat id: -1002696174390
+2025-03-14 00:19:40,839 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-14 00:19:40,977 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-14 00:19:54,524 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-14 00:19:56,170 - handlers.user - INFO - User 449708378 selected pro subscription
+2025-03-14 00:19:56,190 - handlers.user - INFO - Created subscription sub_449708378_20250314001956 for user 449708378
+2025-03-14 00:19:56,256 - handlers.user - ERROR - Error creating invite link for group -4652743742: Group migrated to supergroup. New chat id: -1002696174390
+2025-03-14 00:19:56,373 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-14 00:19:56,494 - handlers.user - INFO - Created invite link for group -4690219028 for user 449708378
+2025-03-14 00:19:56,656 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-14 00:22:21,073 - __main__ - INFO - Starting bot...
+2025-03-14 00:22:21,799 - __main__ - INFO - Bot is ready to handle messages
+2025-03-14 00:22:28,399 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:22:28,400 - handlers.user - INFO - User 449708378 checked status: pro subscription, 29 days remaining
+2025-03-14 00:23:04,524 - handlers.admin - INFO - Admin 449708378 viewing user details:
+Информация о пользователе:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: pro
+Статус: Активна
+2025-03-14 00:23:06,380 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-14 00:23:06,382 - utils.subscription_manager - INFO - User 449708378 has access to groups: [-4652743742, -4644237809, -4690219028]
+2025-03-14 00:23:07,287 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4652743742
+2025-03-14 00:23:07,480 - utils.subscription_manager - WARNING - Could not get chat member status for user 449708378 in group -4652743742: Group migrated to supergroup. New chat id: -1002696174390
+2025-03-14 00:23:07,480 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4644237809
+2025-03-14 00:23:07,792 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4644237809: Chat_admin_required
+2025-03-14 00:23:07,991 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4644237809: Chat_admin_required
+2025-03-14 00:23:07,992 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4690219028
+2025-03-14 00:23:08,205 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4690219028: Chat_admin_required
+2025-03-14 00:23:08,307 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4690219028: Chat_admin_required
+2025-03-14 00:23:08,309 - utils.subscription_manager - INFO - Marked subscription sub_449708378_20250314001956 as expired for user 449708378
+2025-03-14 00:23:08,418 - handlers.admin - INFO - Admin 449708378 expired subscription for user 449708378
+2025-03-14 00:23:08,507 - handlers.admin - INFO - Updated user status:
+Обновленный статус пользователя:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: pro
+Статус: Неактивна
+2025-03-14 00:25:05,076 - __main__ - INFO - Starting bot...
+2025-03-14 00:25:05,740 - __main__ - INFO - Bot is ready to handle messages
+2025-03-14 00:25:08,255 - __main__ - INFO - Command /status used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:25:08,261 - handlers.user - INFO - User 449708378 checked status: No active subscription
+2025-03-14 00:25:14,906 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-14 00:25:16,033 - handlers.user - INFO - User 449708378 selected pro subscription
+2025-03-14 00:25:16,037 - handlers.user - INFO - Created subscription sub_449708378_20250314002516 for user 449708378
+2025-03-14 00:25:16,234 - handlers.user - INFO - Created invite link for group -1002696174390 for user 449708378
+2025-03-14 00:25:16,334 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-14 00:25:16,415 - handlers.user - INFO - Created invite link for group -4690219028 for user 449708378
+2025-03-14 00:25:16,521 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-14 00:25:46,111 - handlers.admin - INFO - Admin 449708378 viewing user details:
+Информация о пользователе:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: pro
+Статус: Активна
+2025-03-14 00:25:48,110 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-14 00:25:48,112 - utils.subscription_manager - INFO - User 449708378 has access to groups: [-1002696174390, -4644237809, -4690219028]
+2025-03-14 00:25:48,957 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -1002696174390
+2025-03-14 00:25:49,264 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -1002696174390: User is an administrator of the chat
+2025-03-14 00:25:49,341 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -1002696174390: User is an administrator of the chat
+2025-03-14 00:25:49,341 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4644237809
+2025-03-14 00:25:49,494 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4644237809: Chat_admin_required
+2025-03-14 00:25:49,578 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4644237809: Chat_admin_required
+2025-03-14 00:25:49,578 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4690219028
+2025-03-14 00:25:49,719 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4690219028: Chat_admin_required
+2025-03-14 00:25:49,802 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4690219028: Chat_admin_required
+2025-03-14 00:25:49,804 - utils.subscription_manager - INFO - Marked subscription sub_449708378_20250314002516 as expired for user 449708378
+2025-03-14 00:25:49,897 - handlers.admin - INFO - Admin 449708378 expired subscription for user 449708378
+2025-03-14 00:25:49,988 - handlers.admin - INFO - Updated user status:
+Обновленный статус пользователя:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: pro
+Статус: Неактивна
+2025-03-14 00:31:30,835 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:31:31,103 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+     ! 
+
+    :
+
+1.  "" ($10/)
+   -   2  
+   -   30 
+
+2.  "" ($10/)
+   -    3  
+   -   30 
+
+ /subscribe   !
+    
+2025-03-14 00:31:32,673 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-14 00:31:34,149 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-14 00:31:34,153 - handlers.user - INFO - Created subscription sub_449708378_20250314003134 for user 449708378
+2025-03-14 00:31:34,349 - handlers.user - INFO - Created invite link for group -1002696174390 for user 449708378
+2025-03-14 00:31:34,432 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-14 00:31:34,544 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-14 00:32:29,481 - handlers.admin - INFO - Admin 449708378 viewing user details:
+Информация о пользователе:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: beginner
+Статус: Активна
+2025-03-14 00:32:31,592 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-14 00:32:31,593 - utils.subscription_manager - INFO - User 449708378 has access to groups: [-1002696174390, -4644237809]
+2025-03-14 00:32:32,496 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -1002696174390
+2025-03-14 00:32:33,146 - utils.subscription_manager - INFO - Successfully removed user 449708378 from group -1002696174390
+2025-03-14 00:32:33,146 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4644237809
+2025-03-14 00:32:33,318 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4644237809: Chat_admin_required
+2025-03-14 00:32:33,414 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4644237809: Chat_admin_required
+2025-03-14 00:32:33,417 - utils.subscription_manager - INFO - Marked subscription sub_449708378_20250314003134 as expired for user 449708378
+2025-03-14 00:32:33,520 - handlers.admin - INFO - Admin 449708378 expired subscription for user 449708378
+2025-03-14 00:32:33,608 - handlers.admin - INFO - Updated user status:
+Обновленный статус пользователя:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: beginner
+Статус: Неактивна
+2025-03-14 00:47:19,943 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:47:20,283 - handlers.admin - INFO - Admin 449708378 viewed admin help
+2025-03-14 00:47:20,283 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+ :
+/list_users -   
+/manage_user <user_id> -   
+    
+2025-03-14 00:47:23,828 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:47:23,922 - handlers.admin - INFO - Admin 449708378 viewed user list:
+Зарегистрированные пользователи:
+
+ID: 449708378
+Пользователь: @shahengrigoryann
+Статус: Неактивна
+
+
+2025-03-14 00:47:33,939 - handlers.admin - INFO - Admin 449708378 viewing user details:
+Информация о пользователе:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: beginner
+Статус: Неактивна
+2025-03-14 00:47:39,561 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-14 00:47:39,562 - utils.subscription_manager - INFO - User 449708378 has access to groups: [-1002696174390, -4644237809]
+2025-03-14 00:47:40,447 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -1002696174390
+2025-03-14 00:47:40,987 - utils.subscription_manager - INFO - Successfully removed user 449708378 from group -1002696174390
+2025-03-14 00:47:40,988 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -4644237809
+2025-03-14 00:47:41,128 - utils.subscription_manager - ERROR - Failed to remove user 449708378 from group -4644237809: Chat_admin_required
+2025-03-14 00:47:41,202 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 449708378 in group -4644237809: Chat_admin_required
+2025-03-14 00:47:41,205 - utils.subscription_manager - INFO - Marked subscription sub_449708378_20250314003134 as expired for user 449708378
+2025-03-14 00:47:41,300 - handlers.admin - INFO - Admin 449708378 expired subscription for user 449708378
+2025-03-14 00:47:41,394 - handlers.admin - INFO - Updated user status:
+Обновленный статус пользователя:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: beginner
+Статус: Неактивна
+2025-03-14 00:47:50,906 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-14 00:47:51,199 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+     ! 
+
+    :
+
+1.  "" ($10/)
+   -   2  
+   -   30 
+
+2.  "" ($10/)
+   -    3  
+   -   30 
+
+ /subscribe   !
+    
+2025-03-14 00:47:52,447 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-14 00:47:54,070 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-14 00:47:54,077 - handlers.user - INFO - Created subscription sub_449708378_20250314004754 for user 449708378
+2025-03-14 00:47:54,300 - handlers.user - INFO - Created invite link for group -1002696174390 for user 449708378
+2025-03-14 00:47:54,382 - handlers.user - INFO - Created invite link for group -4644237809 for user 449708378
+2025-03-14 00:47:54,486 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-14 01:16:19,298 - __main__ - INFO - Starting bot...
+2025-03-14 01:16:20,000 - __main__ - INFO - Bot is ready to handle messages
+2025-03-14 01:16:33,550 - __main__ - INFO - Command /start used by user 449708378 (@shahengrigoryann)
+2025-03-14 01:16:33,798 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+     ! 
+
+    :
+
+1.  "" ($10/)
+   -   2  
+   -   30 
+
+2.  "" ($10/)
+   -    3  
+   -   30 
+
+ /subscribe   !
+    
+2025-03-14 01:16:37,271 - handlers.user - INFO - User 449708378 started subscription process
+2025-03-14 01:16:38,745 - handlers.user - INFO - User 449708378 selected beginner subscription
+2025-03-14 01:16:38,747 - handlers.user - INFO - Created subscription sub_449708378_20250314011638 for user 449708378
+2025-03-14 01:16:38,997 - handlers.user - INFO - Created invite link for group -1002696174390 for user 449708378
+2025-03-14 01:16:39,078 - handlers.user - INFO - Created invite link for group -1002506741512 for user 449708378
+2025-03-14 01:16:39,174 - handlers.user - INFO - Subscription process completed for user 449708378
+2025-03-14 01:17:14,789 - __main__ - INFO - Command /admin used by user 449708378 (@shahengrigoryann)
+2025-03-14 01:17:15,026 - handlers.admin - INFO - Admin 449708378 viewed admin help
+2025-03-14 01:17:15,026 - __main__ - INFO - Bot response to user 449708378 (@shahengrigoryann):
+
+ :
+/list_users -   
+/manage_user <user_id> -   
+    
+2025-03-14 01:17:16,903 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-14 01:17:17,022 - handlers.admin - INFO - Admin 449708378 viewed user list:
+Зарегистрированные пользователи:
+
+ID: 449708378
+Пользователь: @shahengrigoryann
+Статус: Активна
+
+
+2025-03-14 01:17:32,237 - handlers.admin - INFO - Admin 449708378 viewing user details:
+Информация о пользователе:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: beginner
+Статус: Активна
+2025-03-14 01:17:34,748 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 449708378
+2025-03-14 01:17:34,750 - utils.subscription_manager - INFO - User 449708378 has access to groups: [-1002696174390, -1002506741512]
+2025-03-14 01:17:36,113 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -1002696174390
+2025-03-14 01:17:36,711 - utils.subscription_manager - INFO - Successfully removed user 449708378 from group -1002696174390
+2025-03-14 01:17:36,712 - utils.subscription_manager - INFO - Attempting to remove user 449708378 from group -1002506741512
+2025-03-14 01:17:37,000 - utils.subscription_manager - INFO - Successfully removed user 449708378 from group -1002506741512
+2025-03-14 01:17:37,003 - utils.subscription_manager - INFO - Marked subscription sub_449708378_20250314011638 as expired for user 449708378
+2025-03-14 01:17:37,098 - handlers.admin - INFO - Admin 449708378 expired subscription for user 449708378
+2025-03-14 01:17:37,201 - handlers.admin - INFO - Updated user status:
+Обновленный статус пользователя:
+ID: 449708378
+Пользователь: @shahengrigoryann
+Тариф: beginner
+Статус: Неактивна
+2025-03-14 01:33:41,606 - __main__ - INFO - Command /start used by user 7278777874 (@None)
+2025-03-14 01:33:41,611 - handlers.user - INFO - New user registered: 7278777874 (@None)
+2025-03-14 01:33:41,839 - __main__ - INFO - Bot response to user 7278777874 (@None):
+
+     ! 
+
+    :
+
+1.  "" ($10/)
+   -   2  
+   -   30 
+
+2.  "" ($10/)
+   -    3  
+   -   30 
+
+ /subscribe   !
+    
+2025-03-14 01:33:45,175 - handlers.user - INFO - User 7278777874 started subscription process
+2025-03-14 01:33:49,483 - handlers.user - INFO - User 7278777874 selected beginner subscription
+2025-03-14 01:33:49,491 - handlers.user - INFO - Created subscription sub_7278777874_20250314013349 for user 7278777874
+2025-03-14 01:33:49,706 - handlers.user - INFO - Created invite link for group -1002696174390 for user 7278777874
+2025-03-14 01:33:49,788 - handlers.user - INFO - Created invite link for group -1002506741512 for user 7278777874
+2025-03-14 01:33:49,891 - handlers.user - INFO - Subscription process completed for user 7278777874
+2025-03-14 01:34:10,147 - __main__ - INFO - Command /list_users used by user 449708378 (@shahengrigoryann)
+2025-03-14 01:34:10,448 - handlers.admin - INFO - Admin 449708378 viewed user list:
+Зарегистрированные пользователи:
+
+ID: 449708378
+Пользователь: @shahengrigoryann
+Статус: Неактивна
+
+ID: 7278777874
+Пользователь: @None
+Статус: Активна
+
+
+2025-03-14 01:34:30,648 - handlers.admin - INFO - Admin 449708378 viewing user details:
+Информация о пользователе:
+ID: 7278777874
+Пользователь: @None
+Тариф: beginner
+Статус: Активна
+2025-03-14 01:34:32,232 - handlers.admin - INFO - Admin 449708378 expiring subscription for user 7278777874
+2025-03-14 01:34:32,232 - utils.subscription_manager - INFO - User 7278777874 has access to groups: [-1002696174390, -1002506741512]
+2025-03-14 01:34:33,599 - utils.subscription_manager - INFO - Attempting to remove user 7278777874 from group -1002696174390
+2025-03-14 01:34:34,145 - utils.subscription_manager - INFO - Successfully removed user 7278777874 from group -1002696174390
+2025-03-14 01:34:34,146 - utils.subscription_manager - INFO - Attempting to remove user 7278777874 from group -1002506741512
+2025-03-14 01:34:34,290 - utils.subscription_manager - ERROR - Failed to remove user 7278777874 from group -1002506741512: Can't remove chat owner
+2025-03-14 01:34:34,354 - utils.subscription_manager - ERROR - Alternative removal method also failed for user 7278777874 in group -1002506741512: Can't remove chat owner
+2025-03-14 01:34:34,355 - utils.subscription_manager - INFO - Marked subscription sub_7278777874_20250314013349 as expired for user 7278777874
+2025-03-14 01:34:34,439 - handlers.admin - INFO - Admin 449708378 expired subscription for user 7278777874
+2025-03-14 01:34:34,530 - handlers.admin - INFO - Updated user status:
+Обновленный статус пользователя:
+ID: 7278777874
+Пользователь: @None
+Тариф: beginner
+Статус: Неактивна
